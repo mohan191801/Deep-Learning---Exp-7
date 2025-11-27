@@ -67,9 +67,9 @@ Autoencoder is an unsupervised artificial neural network that is trained to copy
 
 ## **PROGRAM**
 
-**Name:** Nishal K
+**Name:** MOHAN M
 
-**Register Number:** 2305001021
+**Register Number:** 2305001018
 
 ``` PYTHON
 from tensorflow.keras import layers, models, Input, datasets
